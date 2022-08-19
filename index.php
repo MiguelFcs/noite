@@ -17,6 +17,10 @@
     }else{
         echo "<script>alert('teste)<script>";
     }
+    //Comentarios em PHP - linha
+    /*
+
+    */
     ?>
     
     <h1>Hello World!</h1>
